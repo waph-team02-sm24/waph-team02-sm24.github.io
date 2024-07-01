@@ -3,7 +3,7 @@
 ### Instructor: Dr. Phu Phung
 
 # Team Project
-## Project Topic/Title
+## miniFacebook
 
 # Team members
 
@@ -13,15 +13,15 @@
 
 # Project Management Information
 
-Source code repository (private access): <https://github.com/***>
+Source code repository (private access): https://github.com/waph-team02-sm24/waph-teamproject
 
-Project homepage (public): <https://***.github.io>
+Project homepage (public): https://waph-team02-sm24.github.io/
 
 ## Revision History
 
 | Date       |   Version     |  Description |
 |------------|:-------------:|-------------:|
-| DD/MM/YYYY |  0.0          | Init draft   |
+| 01/07/2024 |  0.1          | Init draft   |
 
 
 # Overview
