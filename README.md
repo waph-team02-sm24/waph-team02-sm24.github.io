@@ -9,7 +9,7 @@
 
 1. Ethan Sutton, suttonet@mail.uc.edu
 2. Emily Turcotte, turcotea@mail.uc.edu
-3. Member 3, email
+3. Brad Didier, didierbd@mail.uc.edu
 
 # Project Management Information
 
